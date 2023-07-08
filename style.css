@@ -63,7 +63,7 @@ main {
     align-self: center;
 }
 
-.info_table {
+.info_table table{
     margin: auto;
     padding: 10px;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
@@ -72,11 +72,11 @@ main {
     color: #3b3b37;
 }
 
-th {
+.info_table th {
     border-radius: 20px;
     background-color: #e6e8f1;
 }
 
-td {
+.info_table td {
     padding: 7px;
 }
