@@ -56,3 +56,9 @@ main {
     padding: 25px;
     background-color: #ffffff;
 }
+
+.wripper {
+    margin-left: 10%;
+    margin-right: 10%;
+    align-self: center;
+}
