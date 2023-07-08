@@ -115,3 +115,10 @@ hr {
     color: #8D92A9;
     background-color: #8D92A9;
 }
+
+footer {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: 18px;
+    color: #8D92A9;
+}
