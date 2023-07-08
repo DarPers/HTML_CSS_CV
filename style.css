@@ -45,3 +45,14 @@ h1 {
     font-size: 18px;
     color: #3b3b37;
 }
+
+.info_article {
+    margin-left: 25px;
+    margin-right: 25px;
+    line-height: 30px;
+}
+
+main {
+    padding: 25px;
+    background-color: #ffffff;
+}
