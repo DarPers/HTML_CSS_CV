@@ -12,14 +12,8 @@ body {
     background-color: #eaeaea;
 }
 
-header {
-    background-color: #ffffff;
-}
-
 h1 {
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     font-size: 40px;
-    color: #3b3b37;
 }
 
 .inform {
@@ -35,13 +29,11 @@ h1 {
 .additional_information p {
     margin-top: -10%;
     font-size: 35px;
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #8D92A9;
 }
 
 .additional_information .contacts p {
     margin-top: -10px;
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     font-size: 18px;
     color: #3b3b37;
 }
@@ -54,22 +46,22 @@ h1 {
 
 main {
     padding: 25px;
-    background-color: #ffffff;
 }
 
 .wripper {
     margin-left: 10%;
     margin-right: 10%;
     align-self: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: #3b3b37;
+    background-color: #ffffff;
 }
 
 .info_table table{
     margin: auto;
     padding: 10px;
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     font-size: 18px;
     border-radius: 7000px;
-    color: #3b3b37;
 }
 
 .info_table th {
@@ -83,28 +75,22 @@ main {
 
 li {
     margin: 7px;
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     font-size: 18px;
-    color: #3b3b37;
 }
 
 .information_in_list h2 {
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    
     font-size: 21px;
     font-weight: 700;
     text-decoration-style: solid;
-    color: #3b3b37;
 }
 
 p {
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     font-size: 18px;
-    color: #3b3b37;
 }
 
 code {
     font-size: 14px;
-    color: #3b3b37;
 }
 
 hr {
@@ -118,7 +104,6 @@ hr {
 
 footer {
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     font-size: 18px;
     color: #8D92A9;
 }
@@ -134,9 +119,7 @@ footer {
 
 .navigation_block a {
     margin: 15px;
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     font-size: 18px;
-    color: #8D92A9;
 }
 
 a {
