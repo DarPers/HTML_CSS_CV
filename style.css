@@ -146,4 +146,8 @@ a {
     .additional_information .contacts p {
         font-size: 17px;
     }
+
+    .info_table table{
+        border-spacing: 5px 0px;
+    }
 }
